@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding work for inprove my skills and learn more about 
 Software Engineering.
 - 🌱 I’m currently learning javaScript.
-- 💞️ I’m looking to collaborate on projects relacionate with application , website or A.I development.
+- 💞️ I’m looking to collaborate on projects relacionate with application , website ,databases or A.I development.
 - 📫 How to reach me:
 - you can contact me sending a e-mail for: viniciussildio@gmail.com
 - or my linkedIn: https://www.linkedin.com/feed/
